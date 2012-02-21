@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <trainings>
+        <training>
+      <time-unit>dagen</time-unit>
+      <institute-id type="integer">893</institute-id>
+      <methods type="array">
+        <method>
+          <name>Open inschrijving</name>
+          <id type="integer">7</id>
+        </method>
+        <method>
+          <name>In-company / Maatwerk</name>
+          <id type="integer">10</id>
+        </method>
+      </methods>
+      <description>																												&lt;br/&gt;&lt;br/&gt;Te veel te lezen, te langzaam, te weinig begrip. Bespaar 60% tijd door snellezen. Bewezen effectief! Garantie op succes!&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Wist u dat u een&lt;br/&gt;aanzienlijke tijdwinst kunt boeken in uw werk? En dat u tegelijkertijd beter&lt;br/&gt;kunt functioneren? Met snellezen kunt u namelijk informatie sneller én beter in&lt;br/&gt;u opnemen. Verhoog uw effectiviteit. Kies voor de unieke methode van Wout&lt;br/&gt;Plevier. &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Win tijd in uw werk&lt;br/&gt;en dagelijks leven&lt;br/&gt;Wout Plevier ontdekte dat hij de veel gehanteerde methode&lt;br/&gt;voor snellezen kon verbeteren. Het resultaat is een unieke, bewezen effectieve&lt;br/&gt;methode. U leert niet alleen sneller lezen, u neemt de informatie ook beter in&lt;br/&gt;u op.&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&amp;nbsp...</description>
+      <duration-unit>days</duration-unit>
+      <average-rating>9.42</average-rating>
+      <price type="float">1395.0</price>
+      <subjects type="array">
+        <subject>
+          <category-id type="integer">10</category-id>
+          <count type="integer">245</count>
+          <url>http://springest.dev/persoonlijke-effectiviteit/time-management</url>
+          <short-name>time-management</short-name>
+          <name>Time management</name>
+          <category-short-name>persoonlijke-effectiviteit</category-short-name>
+          <id type="integer">81</id>
+        </subject>
+        <subject>
+          <category-id type="integer">10</category-id>
+          <count type="integer">58</count>
+          <url>http://springest.dev/persoonlijke-effectiviteit/snellezen</url>
+          <short-name>snellezen</short-name>
+          <name>Snellezen</name>
+          <category-short-name>persoonlijke-effectiviteit</category-short-name>
+          <id type="integer">237</id>
+        </subject>
+        <subject>
+          <category-id type="integer">10</category-id>
+          <count type="integer">82</count>
+          <url>http://springest.dev/persoonlijke-effectiviteit/mindmapping</url>
+          <short-name>mindmapping</short-name>
+          <name>Mindmapping</name>
+          <category-short-name>persoonlijke-effectiviteit</category-short-name>
+          <id type="integer">286</id>
+        </subject>
+        <subject>
+          <category-id type="integer">10</category-id>
+          <count type="integer">65</count>
+          <url>http://springest.dev/persoonlijke-effectiviteit/geheugentraining</url>
+          <short-name>geheugentraining</short-name>
+          <name>Geheugentraining</name>
+          <category-short-name>persoonlijke-effectiviteit</category-short-name>
+          <id type="integer">287</id>
+        </subject>
+        <subject>
+          <category-id type="integer">10</category-id>
+          <count type="integer">48</count>
+          <url>http://springest.dev/persoonlijke-effectiviteit/effectief-lezen</url>
+          <short-name>effectief-lezen</short-name>
+          <name>Effectief lezen</name>
+          <category-short-name>persoonlijke-effectiviteit</category-short-name>
+          <id type="integer">450</id>
+        </subject>
+      </subjects>
+      <price-currency>&amp;euro;</price-currency>
+      <vat-included>unknown</vat-included>
+      <information-request-url>http://springest.dev/innerspective/snellezen-voor-professionals/informatie-aanvragen</information-request-url>
+      <url>http://springest.dev/innerspective/snellezen-voor-professionals</url>
+      <reviews type="integer">21</reviews>
+      <levels type="array">
+        <level>
+          <name>HBO</name>
+          <id type="integer">2</id>
+        </level>
+      </levels>
+      <duration type="float">2.5</duration>
+      <institute>
+        <logo>http://static-5.cdnhub.nl//images/logos/innerspective-logo-big.gif</logo>
+        <url>http://springest.dev/innerspective</url>
+        <provider-url>http://www.woutplevier.nl</provider-url>
+        <short-name>innerspective</short-name>
+        <name>Innerspective BV</name>
+        <id type="integer">893</id>
+      </institute>
+      <max-participants type="integer">20</max-participants>
+      <short-name>snellezen-voor-professionals</short-name>
+      <regions type="array"/>
+      <more-info-url nil="true"/>
+      <name>Snellezen voor Professionals</name>
+      <total-course-days type="float">2.5</total-course-days>
+      <id type="integer">10002319</id>
+      <search-score type="float">20.484707</search-score>
+      <training-type>training</training-type>
+    </training><training>
+      <time-unit>dagen</time-unit>
+      <institute-id type="integer">1983</institute-id>
+      <methods type="array">
+        <method>
+          <name>Open inschrijving</name>
+          <id type="integer">7</id>
+        </method>
+      </methods>
+      <description>Breng uw communicatie en samenwerking naar een volgend niveau brengen. Leer binnen 1 dag hoe u een duidelijke, aangename en constructieve gesprekspartner wordt op het werk en thuis.&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;Herkent u deze situaties? &lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;Misverstanden: Komt uw boodschap wel eens anders over dan u eigenlijk bedoelt? Begrijpen mensen u verkeerd of komen u woorden niet uit de verf?
+&lt;br/&gt;Gemiste kansen: Doordat u zichzelf geremd voelt of wel eens minder handig emotioneel uit de bocht vliegt, komt u niet optimaal tot uw recht. Dit belemmert uw gesprekspartner om u op volle waarde te kunnen schatten.
+&lt;br/&gt;Piekeren: U geeft niet, onduidelijk of te laat aan wat u ergens van vindt. U hoofd is gevuld met &amp;ldquo;had ik maar&amp;hell...</description>
+      <duration-unit>days</duration-unit>
+      <average-rating>8.84</average-rating>
+      <price type="float">395.0</price>
+      <subjects type="array">
+        <subject>
+          <category-id type="integer">2</category-id>
+          <count type="integer">229</count>
+          <url>http://springest.dev/communicatie/gesprekstechnieken</url>
+          <short-name>gesprekstechnieken</short-name>
+          <name>Gesprekstechnieken</name>
+          <category-short-name>communicatie</category-short-name>
+          <id type="integer">114</id>
+        </subject>
+        <subject>
+          <category-id type="integer">2</category-id>
+          <count type="integer">106</count>
+          <url>http://springest.dev/communicatie/feedback-geven</url>
+          <short-name>feedback-geven</short-name>
+          <name>Feedback geven</name>
+          <category-short-name>communicatie</category-short-name>
+          <id type="integer">227</id>
+        </subject>
+        <subject>
+          <category-id type="integer">2</category-id>
+          <count type="integer">137</count>
+          <url>http://springest.dev/communicatie/weerstand</url>
+          <short-name>weerstand</short-name>
+          <name>Omgaan met weerstand</name>
+          <category-short-name>communicatie</category-short-name>
+          <id type="integer">298</id>
+        </subject>
+        <subject>
+          <category-id type="integer">2</category-id>
+          <count type="integer">267</count>
+          <url>http://springest.dev/communicatie/gespreksvaardigheden</url>
+          <short-name>gespreksvaardigheden</short-name>
+          <name>Gespreksvaardigheden</name>
+          <category-short-name>communicatie</category-short-name>
+          <id type="integer">925</id>
+        </subject>
+        <subject>
+          <category-id type="integer">2</category-id>
+          <count type="integer">479</count>
+          <url>http://springest.dev/communicatie/communicatievaardigheden</url>
+          <short-name>communicatievaardigheden</short-name>
+          <name>Communicatievaardigheden</name>
+          <category-short-name>communicatie</category-short-name>
+          <id type="integer">1035</id>
+        </subject>
+      </subjects>
+      <price-currency>&amp;euro;</price-currency>
+      <vat-included>unknown</vat-included>
+      <information-request-url>http://springest.dev/tijdwinst-gesprekstechnieken/cursus-training-persoonlijke-effectiviteit-1-dag-tijdwinstcom/informatie-aanvragen</information-request-url>
+      <url>http://springest.dev/tijdwinst-gesprekstechnieken/cursus-training-persoonlijke-effectiviteit-1-dag-tijdwinstcom</url>
+      <reviews type="integer">18</reviews>
+      <levels type="array">
+        <level>
+          <name>MBO+</name>
+          <id type="integer">4</id>
+        </level>
+      </levels>
+      <duration type="float">1.0</duration>
+      <institute>
+        <logo>http://static-8.cdnhub.nl//images/logos/tijdwinst-gesprekstechnieken-logo-big.gif</logo>
+        <url>http://springest.dev/tijdwinst-gesprekstechnieken</url>
+        <provider-url>http://www.passarel.nl</provider-url>
+        <short-name>tijdwinst-gesprekstechnieken</short-name>
+        <name>Passarel</name>
+        <id type="integer">1983</id>
+      </institute>
+      <max-participants type="integer">10</max-participants>
+      <short-name>cursus-training-persoonlijke-effectiviteit-1-dag-tijdwinstcom</short-name>
+      <regions type="array"/>
+      <more-info-url nil="true"/>
+      <name>1-daagse cursus Gesprekstechnieken, gespreksvaardigheden, communicatieve vaardigheden</name>
+      <total-course-days type="float">1.0</total-course-days>
+      <id type="integer">10004139</id>
+      <search-score type="float">20.392645</search-score>
+      <training-type>training</training-type>
+    </training><training>
+      <time-unit>dagen</time-unit>
+      <institute-id type="integer">528</institute-id>
+      <methods type="array">
+        <method>
+          <name>Open inschrijving</name>
+          <id type="integer">7</id>
+        </method>
+      </methods>
+      <description>Tijdens de cursus Stromingsleer gaat u niet eindeloos rekenen met formules, maar verschaffen wij u aan de hand van vele praktijkvoorbeelden direct toepasbaar inzicht. De veel gebruikte formules kunt u allemaal terugvinden in ons uitgebreide cursusboek.&lt;br/&gt;
+&lt;br/&gt;Nadat het principe van een centrifugaalpomp is uitgelegd, worden de onderwerpen stromingen, drukval in leidingen en het krachten- verloop in de pomp behandeld. Omdat een verstoorde vloeistofstroming in een pomp het optimaal functioneren van de pomp belemmert, wordt veel aandacht besteed aan het begrip stromings- en wrijvingsverliezen.&amp;nbsp;Hierbij wordt veel gebruik gemaakt van tekeningen en films om de behandelde stof te visualiseren. Da...</description>
+      <duration-unit>days</duration-unit>
+      <average-rating>8.68</average-rating>
+      <price type="float">525.0</price>
+      <subjects type="array">
+        <subject>
+          <category-id type="integer">11</category-id>
+          <count type="integer">146</count>
+          <url>http://springest.dev/productie-techniek-bouw/algemene-techniek</url>
+          <short-name>algemene-techniek</short-name>
+          <name>Algemene techniek</name>
+          <category-short-name>productie-techniek-bouw</category-short-name>
+          <id type="integer">776</id>
+        </subject>
+        <subject>
+          <category-id type="integer">11</category-id>
+          <count type="integer">23</count>
+          <url>http://springest.dev/productie-techniek-bouw/pomp-onderhoud-pomptechniek</url>
+          <short-name>pomp-onderhoud-pomptechniek</short-name>
+          <name>Pomp onderhoud &amp;amp; Pomptechniek</name>
+          <category-short-name>productie-techniek-bouw</category-short-name>
+          <id type="integer">779</id>
+        </subject>
+        <subject>
+          <category-id type="integer">11</category-id>
+          <count type="integer">193</count>
+          <url>http://springest.dev/productie-techniek-bouw/installatietechniek</url>
+          <short-name>installatietechniek</short-name>
+          <name>Installatietechniek</name>
+          <category-short-name>productie-techniek-bouw</category-short-name>
+          <id type="integer">786</id>
+        </subject>
+        <subject>
+          <category-id type="integer">11</category-id>
+          <count type="integer">53</count>
+          <url>http://springest.dev/productie-techniek-bouw/procestechniek</url>
+          <short-name>procestechniek</short-name>
+          <name>Procestechniek</name>
+          <category-short-name>productie-techniek-bouw</category-short-name>
+          <id type="integer">1193</id>
+        </subject>
+      </subjects>
+      <price-currency>&amp;euro;</price-currency>
+      <vat-included>no</vat-included>
+      <information-request-url>http://springest.dev/cursuscentrumoverschie/cursus-stromingsleer/informatie-aanvragen</information-request-url>
+      <url>http://springest.dev/cursuscentrumoverschie/cursus-stromingsleer</url>
+      <reviews type="integer">12</reviews>
+      <levels type="array">
+        <level>
+          <name>MBO</name>
+          <id type="integer">1</id>
+        </level>
+      </levels>
+      <duration type="float">1.0</duration>
+      <institute>
+        <logo>http://static-6.cdnhub.nl//images/logos/cursuscentrumoverschie-logo-big.gif</logo>
+        <url>http://springest.dev/cursuscentrumoverschie</url>
+        <provider-url>http://www.cursuscentrumoverschie.nl</provider-url>
+        <short-name>cursuscentrumoverschie</short-name>
+        <name>Cursuscentrum Overschie</name>
+        <id type="integer">528</id>
+      </institute>
+      <max-participants type="integer">10</max-participants>
+      <short-name>cursus-stromingsleer</short-name>
+      <regions type="array">
+        <region>
+          <long/>
+          <short>Rotterdam</short>
+          <order type="integer">20</order>
+          <country>Nederland</country>
+          <id type="integer">2</id>
+        </region>
+        <region>
+          <long/>
+          <short>Den Haag</short>
+          <order type="integer">30</order>
+          <country>Nederland</country>
+          <id type="integer">3</id>
+        </region>
+        <region>
+          <long/>
+          <short>Zoetermeer</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">19</id>
+        </region>
+        <region>
+          <long/>
+          <short>Dordrecht</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">20</id>
+        </region>
+        <region>
+          <long/>
+          <short>Delft</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">28</id>
+        </region>
+      </regions>
+      <more-info-url nil="true"/>
+      <name>Stromingsleer</name>
+      <total-course-days type="float">1.0</total-course-days>
+      <id type="integer">9993369</id>
+      <search-score type="float">20.373857</search-score>
+      <training-type>cursus</training-type>
+    </training><training>
+      <time-unit>dagen</time-unit>
+      <institute-id type="integer">967</institute-id>
+      <methods type="array">
+        <method>
+          <name>Open inschrijving</name>
+          <id type="integer">7</id>
+        </method>
+      </methods>
+      <description>Situationeel Coachen vanuit Visie (BC3)&lt;br/&gt;
+&lt;br/&gt;Coachen veronderstelt voor coachend leidinggevenden en coaches een heldere visie en missie, vertaald naar bedrijfsdoelen, afdelingsdoelen en persoonlijke doelen. Vanuit die visie leert een coachende leidinggevende omgaan met het zogenaamde &amp;lsquo;pettendilemma&amp;rsquo;. Niet twee maar drie petten namelijk die van leider, manager en coach maken het verschil tussen een reactief en een proactief manager. In plaats van sturen en corrigeren van dagelijkse problemen, richt de coachend leider zich op mogelijkheden. In deze 1-daagse wordt aandacht besteed aan de verschillende stappen die nodig zijn om situationeel coachen vanuit visie te ontwikkelen en in t...</description>
+      <duration-unit>days</duration-unit>
+      <average-rating>8.66</average-rating>
+      <price type="float">466.0</price>
+      <subjects type="array">
+        <subject>
+          <category-id type="integer">9</category-id>
+          <count type="integer">264</count>
+          <url>http://springest.dev/opleiding-onderwijs/coaching</url>
+          <short-name>coaching</short-name>
+          <name>Coach / Coaching</name>
+          <category-short-name>opleiding-onderwijs</category-short-name>
+          <id type="integer">107</id>
+        </subject>
+        <subject>
+          <category-id type="integer">9</category-id>
+          <count type="integer">72</count>
+          <url>http://springest.dev/opleiding-onderwijs/co-actief-coachen</url>
+          <short-name>co-actief-coachen</short-name>
+          <name>Co-actief coachen</name>
+          <category-short-name>opleiding-onderwijs</category-short-name>
+          <id type="integer">177</id>
+        </subject>
+        <subject>
+          <category-id type="integer">9</category-id>
+          <count type="integer">260</count>
+          <url>http://springest.dev/opleiding-onderwijs/opleidingstrajecten</url>
+          <short-name>opleidingstrajecten</short-name>
+          <name>Opleidingstrajecten</name>
+          <category-short-name>opleiding-onderwijs</category-short-name>
+          <id type="integer">222</id>
+        </subject>
+        <subject>
+          <category-id type="integer">9</category-id>
+          <count type="integer">50</count>
+          <url>http://springest.dev/opleiding-onderwijs/intervisie</url>
+          <short-name>intervisie</short-name>
+          <name>Intervisie</name>
+          <category-short-name>opleiding-onderwijs</category-short-name>
+          <id type="integer">462</id>
+        </subject>
+      </subjects>
+      <price-currency>&amp;euro;</price-currency>
+      <vat-included>exempt</vat-included>
+      <information-request-url>http://springest.dev/coachboulevard/coachend-leiderschap-a1/informatie-aanvragen</information-request-url>
+      <url>http://springest.dev/coachboulevard/coachend-leiderschap-a1</url>
+      <reviews type="integer">13</reviews>
+      <levels type="array">
+        <level>
+          <name>HBO</name>
+          <id type="integer">2</id>
+        </level>
+      </levels>
+      <duration type="float">1.0</duration>
+      <institute>
+        <logo>http://static-10.cdnhub.nl//images/logos/coachboulevard-logo-big.gif</logo>
+        <url>http://springest.dev/coachboulevard</url>
+        <provider-url>http://www.coachboulevard.nl</provider-url>
+        <short-name>coachboulevard</short-name>
+        <name>Coachboulevard</name>
+        <id type="integer">967</id>
+      </institute>
+      <max-participants type="integer">16</max-participants>
+      <short-name>coachend-leiderschap-a1</short-name>
+      <regions type="array">
+        <region>
+          <long/>
+          <short>Zwolle</short>
+          <order type="integer">100</order>
+          <country>Nederland</country>
+          <id type="integer">22</id>
+        </region>
+        <region>
+          <long/>
+          <short>Zoetermeer</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">19</id>
+        </region>
+        <region>
+          <long/>
+          <short>Zaanstad</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">15</id>
+        </region>
+        <region>
+          <long/>
+          <short>Westland</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">26</id>
+        </region>
+        <region>
+          <long>Roermond</long>
+          <short>Venlo</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">37</id>
+        </region>
+        <region>
+          <long/>
+          <short>Veenendaal</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">1003</id>
+        </region>
+        <region>
+          <long/>
+          <short>Utrecht</short>
+          <order type="integer">40</order>
+          <country>Nederland</country>
+          <id type="integer">4</id>
+        </region>
+        <region>
+          <long/>
+          <short>Tilburg</short>
+          <order type="integer">70</order>
+          <country>Nederland</country>
+          <id type="integer">7</id>
+        </region>
+        <region>
+          <long>Terneuzen</long>
+          <short>Terneuzen</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">1005</id>
+        </region>
+        <region>
+          <long/>
+          <short>Rotterdam</short>
+          <order type="integer">20</order>
+          <country>Nederland</country>
+          <id type="integer">2</id>
+        </region>
+        <region>
+          <long/>
+          <short>Roermond</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">1002</id>
+        </region>
+        <region>
+          <long/>
+          <short>Nijmegen</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">9</id>
+        </region>
+        <region>
+          <long/>
+          <short>Middelburg</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">31</id>
+        </region>
+        <region>
+          <long>Maastricht, Heerlen, Sittard, Geleen</long>
+          <short>Maastricht</short>
+          <order type="integer">90</order>
+          <country>Nederland</country>
+          <id type="integer">21</id>
+        </region>
+        <region>
+          <long/>
+          <short>Leiden</short>
+          <order type="integer">110</order>
+          <country>Nederland</country>
+          <id type="integer">23</id>
+        </region>
+        <region>
+          <long/>
+          <short>Leeuwarden</short>
+          <order type="integer">120</order>
+          <country>Nederland</country>
+          <id type="integer">30</id>
+        </region>
+        <region>
+          <long/>
+          <short>Hilversum</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">41</id>
+        </region>
+        <region>
+          <long>Heerenveen, Sneek</long>
+          <short>Heerenveen</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">1001</id>
+        </region>
+        <region>
+          <long/>
+          <short>Haarlemmermeer</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">17</id>
+        </region>
+        <region>
+          <long/>
+          <short>Haarlem</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">13</id>
+        </region>
+        <region>
+          <long/>
+          <short>Groningen</short>
+          <order type="integer">60</order>
+          <country>Nederland</country>
+          <id type="integer">6</id>
+        </region>
+        <region>
+          <long/>
+          <short>Gouda</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">1004</id>
+        </region>
+        <region>
+          <long/>
+          <short>Enschede</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">11</id>
+        </region>
+        <region>
+          <long/>
+          <short>Emmen</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">24</id>
+        </region>
+        <region>
+          <long/>
+          <short>Eindhoven</short>
+          <order type="integer">50</order>
+          <country>Nederland</country>
+          <id type="integer">5</id>
+        </region>
+        <region>
+          <long/>
+          <short>Ede</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">25</id>
+        </region>
+        <region>
+          <long/>
+          <short>Drachten</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">39</id>
+        </region>
+        <region>
+          <long/>
+          <short>Dordrecht</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">20</id>
+        </region>
+        <region>
+          <long/>
+          <short>Deventer</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">27</id>
+        </region>
+        <region>
+          <long/>
+          <short>Den Haag</short>
+          <order type="integer">30</order>
+          <country>Nederland</country>
+          <id type="integer">3</id>
+        </region>
+        <region>
+          <long/>
+          <short>Delft</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">28</id>
+        </region>
+        <region>
+          <long>Bergen op Zoom, Roosendaal</long>
+          <short>Breda</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">10</id>
+        </region>
+        <region>
+          <long/>
+          <short>Assen</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">38</id>
+        </region>
+        <region>
+          <long/>
+          <short>Arnhem</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">14</id>
+        </region>
+        <region>
+          <long/>
+          <short>Apeldoorn</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">12</id>
+        </region>
+        <region>
+          <long/>
+          <short>Amsterdam</short>
+          <order type="integer">10</order>
+          <country>Nederland</country>
+          <id type="integer">1</id>
+        </region>
+        <region>
+          <long/>
+          <short>Amersfoort</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">16</id>
+        </region>
+        <region>
+          <long/>
+          <short>Alphen aan den Rijn</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">40</id>
+        </region>
+        <region>
+          <long/>
+          <short>Almere / Lelystad</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">8</id>
+        </region>
+        <region>
+          <long/>
+          <short>Alkmaar</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">36</id>
+        </region>
+        <region>
+          <long>'s-Hertogenbosch, Den Bosch, Zaltbommel</long>
+          <short>'s-Hertogenbosch</short>
+          <order type="integer">80</order>
+          <country>Nederland</country>
+          <id type="integer">18</id>
+        </region>
+      </regions>
+      <more-info-url nil="true"/>
+      <name>Basis Coachen: Situationeel Coachen vanuit Visie (BC3)</name>
+      <total-course-days type="float">1.0</total-course-days>
+      <id type="integer">10008081</id>
+      <search-score type="float">20.364618</search-score>
+      <training-type>training</training-type>
+    </training><training>
+      <time-unit>dagen</time-unit>
+      <institute-id type="integer">221</institute-id>
+      <methods type="array">
+        <method>
+          <name>In-company / Maatwerk</name>
+          <id type="integer">10</id>
+        </method>
+        <method>
+          <name>Open inschrijving</name>
+          <id type="integer">7</id>
+        </method>
+      </methods>
+      <description>Accountmanagement Verkoopvaardigheden&lt;br/&gt;
+&lt;br/&gt;Structuur vasthouden in een verkoopgesprek is een basisvaardigheid. De fases in ieder verkoopgesprek, zoals de opening, het bepalen of cre&amp;euml;ren van een behoefte, het presenteren van de oplossing en het afsluiten van de order vergen veel kennis en kunde.&lt;br/&gt;
+&lt;br/&gt;In ieder verkoopgesprek wordt beslist: ga ik met u of met een ander zaken doen? Daarnaast heeft verkopen alles te maken met lef, met jezelf zijn en met net een beetje slimmer zijn!In deze training leert u hoe u optimaal resultaat kunt halen uit uw verkoopinspanningen. Dankzij uw aanpak scoort u beter op uw conversie en hebt u er een tevreden klant bij. &lt;br/&gt;&lt;br/&gt;In de training is veel aandacht voor uw ...</description>
+      <duration-unit>days</duration-unit>
+      <average-rating>8.55</average-rating>
+      <price type="float">1045.0</price>
+      <subjects type="array">
+        <subject>
+          <category-id type="integer">13</category-id>
+          <count type="integer">168</count>
+          <url>http://springest.dev/sales/accountmanagement</url>
+          <short-name>accountmanagement</short-name>
+          <name>Accountmanagement</name>
+          <category-short-name>sales</category-short-name>
+          <id type="integer">90</id>
+        </subject>
+        <subject>
+          <category-id type="integer">13</category-id>
+          <count type="integer">176</count>
+          <url>http://springest.dev/sales/verkoopgesprek</url>
+          <short-name>verkoopgesprek</short-name>
+          <name>Verkoopgesprek</name>
+          <category-short-name>sales</category-short-name>
+          <id type="integer">105</id>
+        </subject>
+        <subject>
+          <category-id type="integer">13</category-id>
+          <count type="integer">250</count>
+          <url>http://springest.dev/sales/verkoopvaardigheden</url>
+          <short-name>verkoopvaardigheden</short-name>
+          <name>Verkoopvaardigheden</name>
+          <category-short-name>sales</category-short-name>
+          <id type="integer">106</id>
+        </subject>
+        <subject>
+          <category-id type="integer">13</category-id>
+          <count type="integer">87</count>
+          <url>http://springest.dev/sales/buitendienst</url>
+          <short-name>buitendienst</short-name>
+          <name>Buitendienst verkoop</name>
+          <category-short-name>sales</category-short-name>
+          <id type="integer">838</id>
+        </subject>
+        <subject>
+          <category-id type="integer">13</category-id>
+          <count type="integer">232</count>
+          <url>http://springest.dev/sales/commerciele-vaardigheden</url>
+          <short-name>commerciele-vaardigheden</short-name>
+          <name>Commerciële vaardigheden</name>
+          <category-short-name>sales</category-short-name>
+          <id type="integer">969</id>
+        </subject>
+      </subjects>
+      <price-currency>&amp;euro;</price-currency>
+      <vat-included>no</vat-included>
+      <information-request-url>http://springest.dev/uitdeboks/basisvaardigheden-verkoop/informatie-aanvragen</information-request-url>
+      <url>http://springest.dev/uitdeboks/basisvaardigheden-verkoop</url>
+      <reviews type="integer">17</reviews>
+      <levels type="array">
+        <level>
+          <name>MBO+</name>
+          <id type="integer">4</id>
+        </level>
+      </levels>
+      <duration type="float">2.0</duration>
+      <institute>
+        <logo>http://static-6.cdnhub.nl//images/logos/uitdeboks-logo-big.gif</logo>
+        <url>http://springest.dev/uitdeboks</url>
+        <provider-url>http://www.idbo.nl/trainingen</provider-url>
+        <short-name>uitdeboks</short-name>
+        <name>IDBO Training</name>
+        <id type="integer">221</id>
+      </institute>
+      <max-participants type="integer">3</max-participants>
+      <short-name>basisvaardigheden-verkoop</short-name>
+      <regions type="array">
+        <region>
+          <long>N.V.T. / Onbekend</long>
+          <short>N.V.T. / Onbekend</short>
+          <order nil="true"/>
+          <country/>
+          <id type="integer">999</id>
+        </region>
+      </regions>
+      <more-info-url nil="true"/>
+      <name>Accountmanagement, Verkoopvaardigheden</name>
+      <total-course-days type="float">2.0</total-course-days>
+      <id type="integer">1117</id>
+      <search-score type="float">20.348967</search-score>
+      <training-type>training</training-type>
+    </training><training>
+      <time-unit>dagen</time-unit>
+      <institute-id type="integer">1439</institute-id>
+      <methods type="array">
+        <method>
+          <name>In-company / Maatwerk</name>
+          <id type="integer">10</id>
+        </method>
+      </methods>
+      <description>PRINCE2 Supercombo is een&amp;nbsp;PRINCE2 Foundation, PRINCE2 Practitioner, een Examentraining en&amp;nbsp;2 examens&amp;nbsp;in &amp;eacute;&amp;eacute;n (waarde van deze examens all&amp;eacute;&amp;eacute;n is al&amp;nbsp;&amp;euro; 555). Voordeel voor de deelnemer t.o.v. een losse Foundation en een losse Practitioner is dat de training &amp;eacute;&amp;eacute;n dag korter is en dus voordeliger is.&lt;br/&gt;
+&lt;br/&gt;Waarom een PRINCE2 training bij Forsa Advies boeken&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;U volgt uw training bij een &amp;eacute;cht door APMG geaccrediteerd instituut (zie www.apmg-benelux.com). Dat betekent dat onze materialen altijd up-to-date zijn, onze trainers vakkundig en onze dienstverlening rondom de training uitstekend.
+&lt;br/&gt;U hoeft voor uw examens niet het hele ...</description>
+      <duration-unit>days</duration-unit>
+      <average-rating>8.53</average-rating>
+      <price nil="true"/>
+      <subjects type="array">
+        <subject>
+          <category-id type="integer">12</category-id>
+          <count type="integer">444</count>
+          <url>http://springest.dev/kwaliteit-projectmanagement/projectmanagement</url>
+          <short-name>projectmanagement</short-name>
+          <name>Project management</name>
+          <category-short-name>kwaliteit-projectmanagement</category-short-name>
+          <id type="integer">84</id>
+        </subject>
+        <subject>
+          <category-id type="integer">12</category-id>
+          <count type="integer">248</count>
+          <url>http://springest.dev/kwaliteit-projectmanagement/projectmatig-werken</url>
+          <short-name>projectmatig-werken</short-name>
+          <name>Projectmatig werken</name>
+          <category-short-name>kwaliteit-projectmanagement</category-short-name>
+          <id type="integer">145</id>
+        </subject>
+        <subject>
+          <category-id type="integer">12</category-id>
+          <count type="integer">157</count>
+          <url>http://springest.dev/kwaliteit-projectmanagement/prince2</url>
+          <short-name>prince2</short-name>
+          <name>PRINCE2</name>
+          <category-short-name>kwaliteit-projectmanagement</category-short-name>
+          <id type="integer">153</id>
+        </subject>
+        <subject>
+          <category-id type="integer">12</category-id>
+          <count type="integer">119</count>
+          <url>http://springest.dev/kwaliteit-projectmanagement/prince2-foundation</url>
+          <short-name>prince2-foundation</short-name>
+          <name>PRINCE2 Foundation</name>
+          <category-short-name>kwaliteit-projectmanagement</category-short-name>
+          <id type="integer">981</id>
+        </subject>
+        <subject>
+          <category-id type="integer">12</category-id>
+          <count type="integer">102</count>
+          <url>http://springest.dev/kwaliteit-projectmanagement/prince2-practitioner</url>
+          <short-name>prince2-practitioner</short-name>
+          <name>PRINCE2 Practitioner </name>
+          <category-short-name>kwaliteit-projectmanagement</category-short-name>
+          <id type="integer">982</id>
+        </subject>
+      </subjects>
+      <price-currency>&amp;euro;</price-currency>
+      <vat-included>no</vat-included>
+      <information-request-url>http://springest.dev/forsa-advies/prince2-supercombo/informatie-aanvragen</information-request-url>
+      <url>http://springest.dev/forsa-advies/prince2-supercombo</url>
+      <reviews type="integer">11</reviews>
+      <levels type="array">
+        <level>
+          <name>MBO</name>
+          <id type="integer">1</id>
+        </level>
+      </levels>
+      <duration type="float">5.0</duration>
+      <institute>
+        <logo>http://static-9.cdnhub.nl//images/logos/forsa-advies-logo-big.gif</logo>
+        <url>http://springest.dev/forsa-advies</url>
+        <provider-url>http://www.forsa-advies.nl</provider-url>
+        <short-name>forsa-advies</short-name>
+        <name>Forsa Advies</name>
+        <id type="integer">1439</id>
+      </institute>
+      <max-participants type="integer">12</max-participants>
+      <short-name>prince2-supercombo</short-name>
+      <regions type="array">
+        <region>
+          <long/>
+          <short>Amsterdam</short>
+          <order type="integer">10</order>
+          <country>Nederland</country>
+          <id type="integer">1</id>
+        </region>
+        <region>
+          <long/>
+          <short>Den Haag</short>
+          <order type="integer">30</order>
+          <country>Nederland</country>
+          <id type="integer">3</id>
+        </region>
+        <region>
+          <long/>
+          <short>Hilversum</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">41</id>
+        </region>
+        <region>
+          <long/>
+          <short>Leiden</short>
+          <order type="integer">110</order>
+          <country>Nederland</country>
+          <id type="integer">23</id>
+        </region>
+        <region>
+          <long/>
+          <short>Rotterdam</short>
+          <order type="integer">20</order>
+          <country>Nederland</country>
+          <id type="integer">2</id>
+        </region>
+        <region>
+          <long/>
+          <short>Utrecht</short>
+          <order type="integer">40</order>
+          <country>Nederland</country>
+          <id type="integer">4</id>
+        </region>
+        <region>
+          <long/>
+          <short>Westland</short>
+          <order nil="true"/>
+          <country>Nederland</country>
+          <id type="integer">26</id>
+        </region>
+      </regions>
+      <more-info-url nil="true"/>
+      <name>PRINCE2® Supercombo In-company</name>
+      <total-course-days type="float">5.0</total-course-days>
+      <id type="integer">100143545</id>
+      <search-score type="float">20.3434</search-score>
+      <training-type>training</training-type>
+    </training><training>
+      <time-unit>dagen</time-unit>
+      <institute-id type="integer">207</institute-id>
+      <methods type="array">
+        <method>
+          <name>Open inschrijving</name>
+          <id type="integer">7</id>
+        </method>
+      </methods>
+      <description>A2 + B2 = C2? Ook zo'n moeite met formules?&lt;br/&gt;
+&lt;br/&gt;Hoe kan ik een berekening maken in Excel? Hoe zet ik een spreadsheet op?&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;In deze praktische cursus Excel Basis wordt aandacht besteed aan de basisvaardigheden van Excel zoals het maken, wijzigen en opslaan van werkmappen. Daarnaast leert u om zelfstandig een spreadsheet op te zetten, om te gaan met opmaak, functies en formules, het afdrukken en beveiligen van een spreadsheet.&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;Voor wie is deze training bestemd?&lt;br/&gt;
+&lt;br/&gt;De opleiding is bedoeld voor iedereen die de basisfuncties van Excel wil leren. Daarnaast is de opleiding bedoeld voor iedereen zich wil bekwamen in het werken met spreadsheets op een PC op het niveau van module 4 Spreadsheet...</description>
+      <duration-unit>days</duration-unit>
+      <average-rating>8.46</average-rating>
+      <price type="float">560.0</price>
+      <subjects type="array">
+        <subject>
+          <category-id type="integer">1</category-id>
+          <count type="integer">294</count>
+          <url>http://springest.dev/automatisering-ict/computervaardigheden</url>
+          <short-name>computervaardigheden</short-name>
+          <name>Computervaardigheden</name>
+          <category-short-name>automatisering-ict</category-short-name>
+          <id type="integer">408</id>
+        </subject>
+        <subject>
+          <category-id type="integer">1</category-id>
+          <count type="integer">577</count>
+          <url>http://springest.dev/automatisering-ict/microsoft-office</url>
+          <short-name>microsoft-office</short-name>
+          <name>Microsoft Office</name>
+          <category-short-name>automatisering-ict</category-short-name>
+          <id type="integer">504</id>
+        </subject>
+        <subject>
+          <category-id type="integer">1</category-id>
+          <count type="integer">381</count>
+          <url>http://springest.dev/automatisering-ict/microsoft-excel</url>
+          <short-name>microsoft-excel</short-name>
+          <name>Microsoft Excel</name>
+          <category-short-name>automatisering-ict</category-short-name>
+          <id type="integer">505</id>
+        </subject>
+      </subjects>
+      <price-currency>&amp;euro;</price-currency>
+      <vat-included>unknown</vat-included>
+      <information-request-url>http://springest.dev/opleidingscentrum-haaglanden/ms-excel-basis-97--2000--xp--2003/informatie-aanvragen</information-request-url>
+      <url>http://springest.dev/opleidingscentrum-haaglanden/ms-excel-basis-97--2000--xp--2003</url>
+      <reviews type="integer">17</reviews>
+      <levels type="array">
+        <level>
+          <name>MBO</name>
+          <id type="integer">1</id>
+        </level>
+        <level>
+          <name>MBO+</name>
+          <id type="integer">4</id>
+        </level>
+      </levels>
+      <duration type="float">2.0</duration>
+      <institute>
+        <logo>http://static-1.cdnhub.nl//images/logos/opleidingscentrum-haaglanden-logo-big.gif</logo>
+        <url>http://springest.dev/opleidingscentrum-haaglanden</url>
+        <provider-url>http://www.opleidingscentrumhaaglanden.nl</provider-url>
+        <short-name>opleidingscentrum-haaglanden</short-name>
+        <name>Opleidingscentrum Haaglanden</name>
+        <id type="integer">207</id>
+      </institute>
+      <max-participants type="integer">10</max-participants>
+      <short-name>ms-excel-basis-97--2000--xp--2003</short-name>
+      <regions type="array">
+        <region>
+          <long>N.V.T. / Onbekend</long>
+          <short>N.V.T. / Onbekend</short>
+          <order nil="true"/>
+          <country/>
+          <id type="integer">999</id>
+        </region>
+      </regions>
+      <more-info-url nil="true"/>
+      <name>Excel Basis 97 - 2000 - 2002 - 2003</name>
+      <total-course-days type="float">2.0</total-course-days>
+      <id type="integer">5054</id>
+      <search-score type="float">20.337114</search-score>
+      <training-type>opleiding</training-type>
+    </training><training>
+      <time-unit>dagen</time-unit>
+      <institute-id type="integer">332</institute-id>
+      <methods type="array">
+        <method>
+          <name>Open inschrijving</name>
+          <id type="integer">7</id>
+        </method>
+      </methods>
+      <description>SocialOne combineert inspiratie, kennisoverdracht en praktijk op het gebied van social media in een dag. De inspiratiesessie in de ochtend brengt je op de hoogte van alle ins &amp;amp; outs van social media. Je maakt daarna kennis met het 12-stappenmodel &amp;lsquo;Social Media Cycle&amp;rsquo; en leert een social media strategie opstellen. Aan de hand van oefencases doorloop je in een klein team de eerste vijf stappen van de &amp;lsquo;Social Media Cycle&amp;rsquo;. Ervaren coaches ondersteunen je. &lt;br/&gt;&lt;br/&gt;Wat leer je?&lt;br/&gt;
+&lt;br/&gt;
+&lt;br/&gt;Een methode aan de hand van de &amp;lsquo;Social Media Cycle&amp;rsquo; voor het opstellen van je eigen social media strategie.
+&lt;br/&gt;Aan de hand van oefencases leer je een strategie opstellen. Je doorloopt...</description>
+      <duration-unit>days</duration-unit>
+      <average-rating>8.44</average-rating>
+      <price type="float">695.0</price>
+      <subjects type="array">
+        <subject>
+          <category-id type="integer">21</category-id>
+          <count type="integer">84</count>
+          <url>http://springest.dev/internet-media/internet-strategie</url>
+          <short-name>internet-strategie</short-name>
+          <name>Internet strategie &amp;amp; organisatie</name>
+          <category-short-name>internet-media</category-short-name>
+          <id type="integer">245</id>
+        </subject>
+        <subject>
+          <category-id type="integer">21</category-id>
+          <count type="integer">38</count>
+          <url>http://springest.dev/internet-media/web-2</url>
+          <short-name>web-2</short-name>
+          <name>Web 2.0</name>
+          <category-short-name>internet-media</category-short-name>
+          <id type="integer">252</id>
+        </subject>
+        <subject>
+          <category-id type="integer">21</category-id>
+          <count type="integer">131</count>
+          <url>http://springest.dev/internet-media/sociale-netwerken</url>
+          <short-name>sociale-netwerken</short-name>
+          <name>Sociale netwerken / Social Media</name>
+          <category-short-name>internet-media</category-short-name>
+          <id type="integer">264</id>
+        </subject>
+        <subject>
+          <category-id type="integer">21</category-id>
+          <count type="integer">30</count>
+          <url>http://springest.dev/internet-media/innovatieve-marketing</url>
+          <short-name>innovatieve-marketing</short-name>
+          <name>Innovatieve marketing</name>
+          <category-short-name>internet-media</category-short-name>
+          <id type="integer">270</id>
+        </subject>
+        <subject>
+          <category-id type="integer">21</category-id>
+          <count type="integer">17</count>
+          <url>http://springest.dev/internet-media/weblogs</url>
+          <short-name>weblogs</short-name>
+          <name>Weblogs / Bloggen</name>
+          <category-short-name>internet-media</category-short-name>
+          <id type="integer">271</id>
+        </subject>
+      </subjects>
+      <price-currency>&amp;euro;</price-currency>
+      <vat-included>unknown</vat-included>
+      <information-request-url>http://springest.dev/marketingmonday/master-of-social-media/informatie-aanvragen</information-request-url>
+      <url>http://springest.dev/marketingmonday/master-of-social-media</url>
+      <reviews type="integer">29</reviews>
+      <levels type="array">
+        <level>
+          <name>HBO+</name>
+          <id type="integer">6</id>
+        </level>
+      </levels>
+      <duration type="float">1.0</duration>
+      <institute>
+        <logo>http://static-4.cdnhub.nl//images/logos/marketingmonday-logo-big.gif</logo>
+        <url>http://springest.dev/marketingmonday</url>
+        <provider-url>http://www.marketingmonday.nl</provider-url>
+        <short-name>marketingmonday</short-name>
+        <name>MarketingMonday</name>
+        <id type="integer">332</id>
+      </institute>
+      <max-participants type="integer">30</max-participants>
+      <short-name>master-of-social-media</short-name>
+      <regions type="array">
+        <region>
+          <long>N.V.T. / Onbekend</long>
+          <short>N.V.T. / Onbekend</short>
+          <order nil="true"/>
+          <country/>
+          <id type="integer">999</id>
+        </region>
+      </regions>
+      <more-info-url nil="true"/>
+      <name>SocialOne, Masterclass Social Media</name>
+      <total-course-days type="float">1.0</total-course-days>
+      <id type="integer">100145957</id>
+      <search-score type="float">20.329824</search-score>
+      <training-type>cursus</training-type>
+    </training>
