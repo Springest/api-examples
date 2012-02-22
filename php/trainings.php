@@ -20,7 +20,7 @@ function get_trainings($base, $page_size = 10, $offset = 0) {
     $new_offset = ($offset + $page_size);
     if ($new_offset >= $total) {
         $fh = fopen('trainings.xml', 'w');
-        fwrite($fh, '</trainings');
+        fwrite($fh, '</trainings>');
     }
 
     # Find the next link and open it, if it exists

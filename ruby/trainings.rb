@@ -3,8 +3,7 @@ require 'open-uri'
 require 'nokogiri'
 
 def get_trainings(base, page_size = 10, offset = 0)
-    url = base + '&size=' + page_size.to_s + '&offset=' + offset.to_s
-    puts "Opening #{url}"
+    url = (base + '&size=' + page_size.to_s + '&offset=' + offset.to_s).tap{ |u| puts "Opening #{u}" }
 
     doc = Nokogiri::XML(open(url))
     total = doc.css('meta results').text.to_i
