@@ -17,14 +17,15 @@ function get_trainings($base, $page_size = 10, $offset = 0) {
         fwrite($fh, $training->training->asXML());
     }
 
-    if ($offset >= $total) {
+    $new_offset = ($offset + $page_size);
+    if ($new_offset >= $total) {
         $fh = fopen('trainings.xml', 'w');
         fwrite($fh, '</trainings');
     }
 
     # Find the next link and open it, if it exists
-    if($offset < $total) {
-      get_trainings($base, $page_size, ($offset + $page_size));
+    if($new_offset < $total) {
+      get_trainings($base, $page_size, $new_offset);
     }
     echo "Finished crawling\n";
 }

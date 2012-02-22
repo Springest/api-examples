@@ -15,11 +15,12 @@ def get_trainings(base, page_size = 10, offset = 0)
       File.open('trainings.xml', 'a') {|f| f.write(training.to_s << "\n") }
     end
 
-    File.open('trainings.xml', 'w') { |f| f.write('</trainings') } if offset >= total
+    new_offset = (offset + page_size)
+    File.open('trainings.xml', 'w') { |f| f.write('</trainings>') } if new_offset >= total
 
     # Find the next link and open it, if it exists
-    if(offset < total)
-      get_trainings(base, page_size, (offset + page_size))
+    if(new_offset < total)
+      get_trainings(base, page_size, new_offset)
     end
     puts 'Finished crawling'
 end
