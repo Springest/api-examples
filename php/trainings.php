@@ -1,33 +1,21 @@
 <?php
+
 function get_trainings($base, $page_size = 10, $offset = 0) {
-    $url = sprintf('%s&size=%d&offset=%d', $base, $page_size, $offset);
-    echo "Opening $url\n";
-
-    $doc = simplexml_load_file($url);
-    $total = intval($doc->meta->results);
-    $trainings = $doc->trainings;
-
-    if ($offset == 0) {
-        $fh = fopen('trainings.xml', 'w');
-        fwrite($fh, '<?xml version="1.0" encoding="UTF-8"?><trainings>');
-    }
-
-    foreach($trainings as $training) {
-        $fh = fopen('trainings.xml', 'a');
-        fwrite($fh, $training->training->asXML());
-    }
-
-    $new_offset = ($offset + $page_size);
-    if ($new_offset >= $total) {
-        $fh = fopen('trainings.xml', 'w');
-        fwrite($fh, '</trainings>');
-    }
-
-    # Find the next link and open it, if it exists
-    if($new_offset < $total) {
-      get_trainings($base, $page_size, $new_offset);
-    }
-    echo "Finished crawling\n";
+    $fh = fopen('trainings.xml', 'w');
+    fwrite($fh, '<?xml version="1.0" encoding="UTF-8"?><trainings>');
+    do {
+        $url = sprintf('%s&size=%d&offset=%d', $base, $page_size, $offset);
+        echo "Opening $url\n";
+        $doc = simplexml_load_file($url);
+        $total = intval($doc->meta->results);
+        foreach($doc->trainings->training as $training) {
+            fwrite($fh, $training->asXML());
+        }
+        $offset += $page_size;
+    } while($offset < $total);
+    fwrite($fh, '</trainings>');
+    fclose($fh);
+    echo 'Finished crawling. Data written to trainings.xml';
 }
 
 get_trainings('http://data.springest.nl/trainings.xml?api_key=YOUR_API_KEY');
