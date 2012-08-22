@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<review>
+    <first_name>John</first_name>
+    <last_name>Doe</last_name>
+    <email>john@doe.com</email>
+    <institute-id type="integer">1</institute-id>
+    <training-id type="integer">1</training-id>
+    <rating-general>5</rating-general>
+    <description>
+        Donec ullamcorper nulla non metus auctor fringilla. Maecenas faucibus mollis interdum. Donec sed odio dui.
+    </description>
+    <training-month type="integer">12</training-month>
+    <training-year type="integer">2011</training-year>
+</review>

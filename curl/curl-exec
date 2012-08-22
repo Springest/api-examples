@@ -1,0 +1,1 @@
+curl -v -H "Content-Type: application/xml; charset=utf-8" --data-ascii @new.xml http://data.springest.dev:3000/reviews.xml?api_key=9c23a69e23dfaefea805121ca537579d6104e99ca89802c71739b2d1a0591240
