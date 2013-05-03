@@ -18,4 +18,4 @@ function get_trainings($base, $page_size = 10, $offset = 0) {
     echo 'Finished crawling. Data written to trainings.xml';
 }
 
-get_trainings('http://data.springest.nl/trainings/search.xml?query=testen&api_key=YOUR_API_KEY&fields=id');
+get_trainings('http://api.springest.nl/trainings/search.xml?query=testen&api_key=YOUR_API_KEY&fields=id');
