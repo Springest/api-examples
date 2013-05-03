@@ -4,4 +4,4 @@ This is some example code for using our [API][api]. It's not a real SDK, but it 
 If you got any questions about these examples, send us an [e-mail][mail].
 
 [api]: http://api.springest.nl
-[mail]: mailto:developers@springest.nl
+[mail]: mailto:developers@springest.com
